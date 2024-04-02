@@ -1,4 +1,6 @@
 server:
     port: 8005
-configuration:
-    text: Developer 
+version:
+    0.0.1
+application:
+    name: item-service-dev

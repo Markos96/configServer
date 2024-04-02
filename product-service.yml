@@ -1,4 +1,6 @@
 server:
     port: 8008
-configuration:
-    text: Developer Product 
+version:
+    0.0.1
+application:
+    name: product-service-dev
