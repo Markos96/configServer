@@ -1,0 +1,4 @@
+server:
+    port: 8005
+configuration:
+    text: Developer 
